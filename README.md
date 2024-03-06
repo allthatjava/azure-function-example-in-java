@@ -38,5 +38,5 @@ However, if it needs to be called from other service, 'code' must be provided to
 ![img/azure_function_running_on_broswer.png](img/azure_function_running_on_broswer.png)
 
 #### See the log on Azure Portal
-You can see the log in the Resource Group - Logs tab. It seems like it has 4-5 min delay to show the log...
+You can see the log in the Monitor - Logs tab and select cope as your resource group. It seems like it has 4-5 min delay to show the log...
 ![img/azure_functions_log.png](img/azure_functions_log.png)
