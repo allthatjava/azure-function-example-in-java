@@ -36,3 +36,7 @@ It needed to be provide for the security measure. If you run it from Intellij, i
 However, if it needs to be called from other service, 'code' must be provided to call that function.
 
 ![img/azure_function_running_on_broswer.png](img/azure_function_running_on_broswer.png)
+
+#### See the log on Azure Portal
+You can see the log in the Resource Group - Logs tab. It seems like it has 4-5 min delay to show the log...
+![img/azure_functions_log.png](img/azure_functions_log.png)
